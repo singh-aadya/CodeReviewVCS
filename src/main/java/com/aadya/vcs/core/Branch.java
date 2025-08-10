@@ -1,4 +1,4 @@
-package com.yourname.vcs.core;
+package com.aadya.vcs.core;
 
 public class Branch {
     private final String name;

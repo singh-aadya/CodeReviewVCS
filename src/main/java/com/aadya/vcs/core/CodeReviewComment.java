@@ -1,4 +1,4 @@
-package com.yourname.vcs.core;
+package com.aadya.vcs.core;
 
 import java.time.LocalDateTime;
 

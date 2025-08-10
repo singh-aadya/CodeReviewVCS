@@ -1,4 +1,4 @@
-package com.yourname.vcs.core;
+package com.yourname.aadya.core;
 
 public class EditOperation {
     public enum Type {
